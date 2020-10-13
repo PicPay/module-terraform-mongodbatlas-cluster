@@ -53,7 +53,7 @@ module "mongodb_atlas_rs_aws" {
     password      = "2asd3sGy7K"
 
     environment   = "lab"
-    name          = "ec2_teste"
+    name          = "mongodb-teste"
     squad         = "InfraCore"
     costcenter    = "1462"
     tribe         = "Infra Cloud"
